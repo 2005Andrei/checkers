@@ -51,9 +51,9 @@ Before running the game, you'll need to have Python and pip installed on your sy
 
 2. **Install required dependencies**
    - Open terminal at folder and run in your terminal/command prompt:
-    ```bash
-    pip install -r requirements.txt
-    ```
+     ```bash
+     pip install -r requirements.txt
+     ```
    - Run the following command in your terminal/command prompt:
      ```bash
      pip install pygame numpy
