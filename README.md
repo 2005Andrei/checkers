@@ -44,12 +44,16 @@ Before running the game, you'll need to have Python and pip installed on your sy
 1. **Clone or download the repository**
    - If you have git installed:
      ```bash
-     git clone https://github.com/yourusername/checkers-game.git
+     git clone https://github.com/2005Andrei/checkers.git
      cd checkers-game
      ```
    - Or download the ZIP file and extract it
 
 2. **Install required dependencies**
+   - Open terminal at folder and run in your terminal/command prompt:
+    ```bash
+    pip install -r requirements.txt
+    ```
    - Run the following command in your terminal/command prompt:
      ```bash
      pip install pygame numpy
